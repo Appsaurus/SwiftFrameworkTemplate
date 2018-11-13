@@ -1,1 +1,1 @@
-carthage bootstrap --no-use-binaries --cache-builds
+cd FRAMEWORKNAMEDemo && pod install
